@@ -1,4 +1,4 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/107404712/226938124-f65c8087-4cae-472a-ad1f-60f669f71bd4.png" width="200"/></p>
+<p align="center"><img src="https://github.com/sugamraut/sugamraut/blob/main/jpeg.jpg" width="200"/></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=SugamRaut&style=flat-square&color=blue" alt=""></p>
 
 <h1 align="center">Hi, I am Sugam Raut.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
