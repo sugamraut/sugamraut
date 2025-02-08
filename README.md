@@ -1,10 +1,22 @@
--  Hi, I am Sugam Raut.
+<p align="center"><img src="https://user-images.githubusercontent.com/107404712/226938124-f65c8087-4cae-472a-ad1f-60f669f71bd4.png" width="200"/></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=SugamRaut&style=flat-square&color=blue" alt=""></p>
+
+<h1 align="center">Hi, I am Sugam Raut.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> 
+ </h1>
+
 -  I’m interested in Web Development.
 -  I’m currently learning Python programming language.
--  How to reach me: sugamrautbim@gmail.com
 
   ### 🤝 Connect with me:
-  <a href="https://www.linkedin.com/in/sugam-raut-352555262/" target=”_blank”><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=" Sugam raut| Sugam Raut | LinkedIn" width="21px"  style="margin-left: 10px;"/></a> <br>
+  <div align="center">
+    <a href="mailto:sugamrautbim@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white alt=email style="margin-bottom: 5px;" />
+</a>  
+    <a href="https://www.linkedin.com/in/sugam-raut-352555262/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+     
+  </div>
 
    ### :hammer_and_wrench: Languages and Tools :
 <div><img src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" title="Python" alt="Python3" width="40">
