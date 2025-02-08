@@ -2,7 +2,7 @@
 -  I’m interested in Web Development.
 -  I’m currently learning Python programming language.
 -  How to reach me: sugamrautbim@gmail.com
--  How to reach me: https://www.linkedin.com/in/sugam-raut-352555262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
+ 
 
 
 ### :hammer_and_wrench: Languages and Tools :
