@@ -3,8 +3,8 @@
 -  I’m currently learning Python programming language.
 -  How to reach me: sugamrautbim@gmail.com
 
-    ### 🤝 Connect with me:
-- <a href="https://www.linkedin.com/in/sugam-raut-352555262/" target=”_blank”><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=" Sugam raut| Sugam Raut | LinkedIn" width="21px"/></a>
+  ### 🤝 Connect with me:
+ <a href="https://www.linkedin.com/in/sugam-raut-352555262/" target=”_blank”><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=" Sugam raut| Sugam Raut | LinkedIn" width="21px"/></a>
 
  
 ### :hammer_and_wrench: Languages and Tools :
