@@ -2,6 +2,7 @@
 -  I’m interested in Web Development.
 -  I’m currently learning Python programming language.
 -  How to reach me: sugamrautbim@gmail.com
+-  How to reach me: https://www.linkedin.com/in/sugam-raut-352555262?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app 
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -11,8 +12,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="40">
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/react/react-original-wordmark.svg" title="Reactjs" alt="Reactjs" width="40"> 
+  <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-plain-wordmark.svg" title="Nodejs" alt="Nodejs" width="40"> 
+   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/mysql/mysql-original-wordmark.svg" title="Mysql" alt="Mysql" width="40"> 
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="tailwind css" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40">  
+   
 </div>
 
 
