@@ -19,7 +19,7 @@
   </div>
 
    ### :hammer_and_wrench: Languages and Tools :
-<div><img src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" title="Python" alt="Python3" width="40">
+<div style="margin: 10px;"><img src="https://github.com/devicons/devicon/blob/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/python/python-original.svg" title="Python" alt="Python3" width="40">
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg" title="Java" alt="Java" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C lang" alt="C lang" width="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40">
