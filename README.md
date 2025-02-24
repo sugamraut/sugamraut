@@ -35,5 +35,5 @@
 
 
 ### ⏱️ Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=sugamraut&theme=algolia&card_width=650&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sugamraut&theme=sunset-gradient&border_radius=5)](https://git.io/streak-stats)
 
