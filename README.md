@@ -31,6 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="tailwind css" width="40" style="margin: 10px;">
    <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="bootstrap" width="40"style="margin: 10px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" style="margin: 10px;">  
+  <img src="https://github.com/devicons/devicon/blob/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/materialui/materialui-original.svg" title="Material ui" alt="Material" width="40"style="margin: 10px;">
    
 </div>
 
