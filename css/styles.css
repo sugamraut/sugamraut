@@ -53,14 +53,14 @@ body {
   transition: all 0.15s ease;
   opacity: 0.6;
 }
-#three-canvas {
+
+ #three-canvas {
   position: fixed;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  z-index: 0;
-  pointer-events: none;
+  z-index: -1;   
 }
 nav {
   position: fixed;
@@ -604,6 +604,10 @@ section {
   color: var(--muted);
   font-size: 0.85rem;
   line-height: 1.7;
+}
+section, nav, footer {
+  position: relative;
+  z-index: 2;
 }
 
 /* CONTACT */
